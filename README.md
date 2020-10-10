@@ -6,7 +6,7 @@
 
 [link]: https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_4344.cpp
 
-* ~~[9012][link2] [🔥](https://velog.io/@yoonah-dev/9012%EB%B2%88-%EA%B4%84%ED%98%B8C)~~
+* ~~[9012][link2]~~ [🔥](https://velog.io/@yoonah-dev/9012%EB%B2%88-%EA%B4%84%ED%98%B8C)
 
 [link2]: https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_9012.cpp
 
