@@ -16,6 +16,9 @@
 * ~~[1966](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1966.cpp)~~ <br/>
 * 2493 <br/>
 
+<br/>
+<br/>
+
 |주차          |Level     |문제번호 |제목     |분류 |제출 기한       |
 |------------|----------|-----|-------|---|------------|
 |10월 2주차, 1주차|Bronze I  |4344 |[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|   |Oct 9, 2020 |
