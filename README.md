@@ -12,6 +12,6 @@
 
 ## 2nd week
 
-* [17608](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_17608.cpp) <br/>
+* ~~[17608](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_17608.cpp)~~ <br/>
 * 1966 <br/>
 * 2493 <br/>
