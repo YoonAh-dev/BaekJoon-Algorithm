@@ -12,7 +12,6 @@
 |10월 4주차, 3주차|Gold V |1107|[리모컨](https://www.acmicpc.net/problem/1107)      |완전탐색 |Oct 23, 2020| 
 
 <br/>
-<br/>
 
 ## 1st week
 
