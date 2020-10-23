@@ -15,13 +15,8 @@
 
 ## 1st week
 
-* ~~[4344][link]~~
-
-[link]: https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_4344.cpp
-
-* ~~[9012][link2]~~ 
-
-[link2]: https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_9012.cpp
+* ~~[4344](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_4344.cpp)~~
+* ~~[9012](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_9012.cpp)~~
 
 ## 2nd week
 
