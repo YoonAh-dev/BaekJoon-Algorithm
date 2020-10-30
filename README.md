@@ -14,3 +14,4 @@
 |10월 5주차, 4주차|Silver IV |1920|[수 찾기](https://www.acmicpc.net/problem/1920)   |해시 |Oct 30, 2020|~~[1920](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1920.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/1920%EB%B2%88-%EC%88%98-%EC%B0%BE%EA%B8%B0c)
 |10월 5주차, 4주차|Gold I |13713|[문자열과 쿼리](https://www.acmicpc.net/problem/13713) |해시 |Oct 30, 2020|
 |10월 5주차, 4주차|Silver V | 1789|[수들의 합](https://www.acmicpc.net/problem/1789)   |해시 |Oct 30, 2020|~~[1789](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1789.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/1789%EB%B2%88-%EC%88%98%EB%93%A4%EC%9D%98-%ED%95%A9c)
+|10월 5주차, 4주차|Gold IV |2002| [추월](https://www.acmicpc.net/problem/2002)   |해시 |Oct 30, 2020|
