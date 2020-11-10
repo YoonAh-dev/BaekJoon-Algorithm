@@ -18,7 +18,7 @@
 |11월 1주차, 5주차|Silver III |2606|[바이러스](https://www.acmicpc.net/problem/2606)  |DFS, BFS |Nov 6, 2020|~~[2606](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2606.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/2606%EB%B2%88-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4c)
 |11월 1주차, 5주차|Silver II |1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260)  |DFS, BFS |Nov 6, 2020|~~[1260](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1260.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/1260%EB%B2%88-DFS%EC%99%80-BFSc)
 |11월 1주차, 5주차|Silver I |2178|[미로 탐색](https://www.acmicpc.net/problem/2178)  |DFS, BFS |Nov 6, 2020|~~[2178](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2178.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/2178%EB%B2%88-%EB%AF%B8%EB%A1%9C-%ED%83%90%EC%83%89c)|
-|11월 2주차, 6주차|Silver II |1012|[유기농 배추](https://www.acmicpc.net/problem/1012)  |DFS, BFS |Nov 13, 2020|
+|11월 2주차, 6주차|Silver II |1012|[유기농 배추](https://www.acmicpc.net/problem/1012)  |DFS, BFS |Nov 13, 2020|🌟|
 |11월 2주차, 6주차|Gold V |19236|[아기상어](https://www.acmicpc.net/problem/19236)  |BFS |Nov 13, 2020|
 |11월 2주차, 6주차|Gold IV |1987|[알파벳](https://www.acmicpc.net/problem/1987)  |DFS |Nov 13, 2020|
 |11월 2주차, 6주차|Gold IV |1967|[트리의 지름](https://www.acmicpc.net/problem/1967)  |DFS |Nov 13, 2020|
