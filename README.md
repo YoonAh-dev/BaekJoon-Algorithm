@@ -21,6 +21,6 @@
 |11월 2주차, 6주차|Silver II |1012|[유기농 배추](https://www.acmicpc.net/problem/1012)  |DFS, BFS |Nov 13, 2020|~~[1012](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1012.cpp)~~|
 |11월 2주차, 6주차|Gold V |19236|[아기상어](https://www.acmicpc.net/problem/16236)  |BFS |Nov 13, 2020|
 |11월 2주차, 6주차|Gold IV |1987|[알파벳](https://www.acmicpc.net/problem/1987)  |DFS |Nov 13, 2020|
-|11월 2주차, 6주차|Gold IV |1967|[트리의 지름](https://www.acmicpc.net/problem/1967)  |DFS |Nov 13, 2020|
+|11월 2주차, 6주차|Gold IV |1967|[트리의 지름](https://www.acmicpc.net/problem/1967)  |DFS |Nov 13, 2020|~~[1967](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1967.cpp)~~|
 |11월 2주차, 6주차|Gold III |2146|[다리 만들기](https://www.acmicpc.net/problem/2146)  |BFS |Nov 13, 2020|
-
+|11월 2주차, 6주차|Silver I |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)  |DFS, BFS |Nov 13, 2020|~~[2667](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2667.cpp)~~|
