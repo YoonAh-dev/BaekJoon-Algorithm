@@ -28,3 +28,8 @@
 |11월 3주차, 2주차|Silver II |1931|[회의실배정](https://www.acmicpc.net/problem/1931) |Sort, Greedy |Nov 20, 2020|
 |11월 3주차, 2주차|Silver I |1946|[신입사원](https://www.acmicpc.net/problem/1946) |Sort, Greedy |Nov 20, 2020|
 |11월 3주차, 2주차|Gold IV |5052|[전화번호 목록](https://www.acmicpc.net/problem/5052) |Sort, 트리 |Nov 20, 2020|
+
+<br>
+<br>
+
+- **[나는 정렬을 못한다🙅🏻‍♀️, 기본기를 기르자🧑🏻‍💻](https://www.acmicpc.net/workbook/view/2071)**
