@@ -33,3 +33,4 @@
 <br>
 
 - **[나는 정렬을 못한다🙅🏻‍♀️, 기본기를 기르자🧑🏻‍💻](https://www.acmicpc.net/workbook/view/2071)**
+  - [세수정렬](https://www.acmicpc.net/problem/2752)  | `Bronze IIII` |  ~~[2752](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2752.cpp)~~
