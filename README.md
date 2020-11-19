@@ -24,7 +24,7 @@
 |11월 2주차, 1주차|Gold IV |1967|[트리의 지름](https://www.acmicpc.net/problem/1967)  |DFS |Nov 13, 2020|~~[1967](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1967.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/1967%EB%B2%88-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84c)|
 |11월 2주차, 1주차|Gold III |2146|[다리 만들기](https://www.acmicpc.net/problem/2146)  |BFS |Nov 13, 2020|
 |11월 2주차, 1주차|Silver I |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)  |DFS, BFS |Nov 13, 2020|~~[2667](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2667.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/2667%EB%B2%88-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0c)|
-|11월 3주차, 2주차|Silver III |11399|[ATM](https://www.acmicpc.net/problem/11399) |Sort, Greedy |Nov 20, 2020|
+|11월 3주차, 2주차|Silver III |11399|[ATM](https://www.acmicpc.net/problem/11399) |Sort, Greedy |Nov 20, 2020|~~[11399](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_11399.cpp)~~|
 |11월 3주차, 2주차|Silver II |1931|[회의실배정](https://www.acmicpc.net/problem/1931) |Sort, Greedy |Nov 20, 2020|
 |11월 3주차, 2주차|Silver I |1946|[신입사원](https://www.acmicpc.net/problem/1946) |Sort, Greedy |Nov 20, 2020|
 |11월 3주차, 2주차|Gold IV |5052|[전화번호 목록](https://www.acmicpc.net/problem/5052) |Sort, 트리 |Nov 20, 2020|
@@ -34,3 +34,4 @@
 
 - **[나는 정렬을 못한다🙅🏻‍♀️, 기본기를 기르자🧑🏻‍💻](https://www.acmicpc.net/workbook/view/2071)**
   - [세수정렬](https://www.acmicpc.net/problem/2752)  | `Bronze IIII` |  ~~[2752](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2752.cpp)~~
+  - [과목선택](https://www.acmicpc.net/problem/11948) | `Bronze IV` | ~~[11948](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_11948.cpp)~~
