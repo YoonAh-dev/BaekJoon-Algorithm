@@ -27,7 +27,7 @@
 |11월 2주차, 1주차|Silver I |2667|[단지번호붙이기](https://www.acmicpc.net/problem/2667)  |DFS, BFS |Nov 13, 2020|~~[2667](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2667.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/2667%EB%B2%88-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0c)|
 |11월 3주차, 2주차|Silver III |11399|[ATM](https://www.acmicpc.net/problem/11399) |Sort, Greedy |Nov 20, 2020|~~[11399](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_11399.cpp)~~|
 |11월 3주차, 2주차|Silver II |1931|[회의실배정](https://www.acmicpc.net/problem/1931) |Sort, Greedy |Nov 20, 2020|~~[1931](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1931.cpp)~~|
-|11월 3주차, 2주차|Silver I |1946|[신입사원](https://www.acmicpc.net/problem/1946) |Sort, Greedy |Nov 20, 2020|
+|11월 3주차, 2주차|Silver I |1946|[신입사원](https://www.acmicpc.net/problem/1946) |Sort, Greedy |Nov 20, 2020|~~[1946](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1946.cpp)~~|
 |11월 3주차, 2주차|Gold IV |5052|[전화번호 목록](https://www.acmicpc.net/problem/5052) |Sort, 트리 |Nov 20, 2020|~~[5052](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_5052.cpp)~~|
 
 <br>
