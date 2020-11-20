@@ -1,11 +1,10 @@
 #include <iostream>
-#include <cstring>
 #include <algorithm>
 
 using namespace std;
 
 int testcase, num = 0;
-string telephones[10003];
+string telephones[10002];
 
 bool testConsistency() {
     for (int i = 0; i < num; i++)
