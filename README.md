@@ -29,6 +29,10 @@
 |11월 3주차, 2주차|Silver II |1931|[회의실배정](https://www.acmicpc.net/problem/1931) |Sort, Greedy |Nov 20, 2020|~~[1931](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1931.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/1931%EB%B2%88-%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95c)
 |11월 3주차, 2주차|Silver I |1946|[신입사원](https://www.acmicpc.net/problem/1946) |Sort, Greedy |Nov 20, 2020|~~[1946](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1946.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/1946%EB%B2%88-%EC%8B%A0%EC%9E%85-%EC%82%AC%EC%9B%90c)
 |11월 3주차, 2주차|Gold IV |5052|[전화번호 목록](https://www.acmicpc.net/problem/5052) |Sort, 트리 |Nov 20, 2020|~~[5052](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_5052.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/5052%EB%B2%88-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9Dc)
+|11월 4주차, 3주차|Silver III |15903|[카드 합체 놀이](https://www.acmicpc.net/problem/15903) |우선순위 큐, Greedy |Nov 27, 2020|
+|11월 4주차, 3주차|Silver II |11279|[최대 힙](https://www.acmicpc.net/problem/11279) |우선순위 큐 |Nov 27, 2020|
+|11월 4주차, 3주차|Gold IV |1715|[카드 정렬하기](https://www.acmicpc.net/problem/1715) |우선순위 큐 |Nov 27, 2020|
+|11월 4주차, 3주차|Gold II |1766|[문제집](https://www.acmicpc.net/problem/1766) |우선순위 큐, graph |Nov 27, 2020|
 
 <br>
 <br>
