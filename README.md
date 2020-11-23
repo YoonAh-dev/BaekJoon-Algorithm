@@ -41,6 +41,6 @@
   - [세수정렬](https://www.acmicpc.net/problem/2752)  | `Bronze IIII` |  ~~[2752](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2752.cpp)~~
   - [과목선택](https://www.acmicpc.net/problem/11948) | `Bronze IV` | ~~[11948](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_11948.cpp)~~
   - [단어정렬](https://www.acmicpc.net/problem/1181) | `Silver V` | ~~[1181](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1181.cpp)~~
-  - [소트인사이드](https://www.acmicpc.net/problem/1427) | `Silver V` |~~[1427](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1427.cpp)~~
-  - [시리얼번호](https://www.acmicpc.net/problem/1431) | `Silver III` |~~[1431](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1431.cpp)~~
-  - [숫자놀이](https://www.acmicpc.net/problem/1755) | `Silver V` |~~[1755](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1755.cpp)~~
+  - [소트인사이드](https://www.acmicpc.net/problem/1427) | `Silver V` |  ~~[1427](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1427.cpp)~~
+  - [시리얼번호](https://www.acmicpc.net/problem/1431) | `Silver III` |  ~~[1431](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1431.cpp)~~
+  - [숫자놀이](https://www.acmicpc.net/problem/1755) | `Silver V` | ~~[1755](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1755.cpp)~~
