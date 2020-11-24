@@ -44,3 +44,8 @@
   - [소트인사이드](https://www.acmicpc.net/problem/1427) | `Silver V` |  ~~[1427](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1427.cpp)~~
   - [시리얼번호](https://www.acmicpc.net/problem/1431) | `Silver III` |  ~~[1431](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1431.cpp)~~
   - [숫자놀이](https://www.acmicpc.net/problem/1755) | `Silver V` | ~~[1755](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1755.cpp)~~
+  - [알바생 강호](https://www.acmicpc.net/problem/1758) | `Silver IV` | ~~[1758](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1758.cpp)~~
+  - [필터](https://www.acmicpc.net/problem/1895) | `Silver III` | ~~[1895](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1895.cpp)~~
+  - [주몽](https://www.acmicpc.net/problem/1940) | `Silver IV` | ~~[1940](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1940.cpp)~~
+  - [등수 매기기](https://www.acmicpc.net/problem/2012) | `Silver III` | ~~[2012](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2012.cpp)~~
+  - [수열의 점수](https://www.acmicpc.net/problem/2036) | `Silver I` | ~~[2036](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2036.cpp)~~
