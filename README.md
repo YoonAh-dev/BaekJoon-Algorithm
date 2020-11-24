@@ -49,3 +49,4 @@
   - [주몽](https://www.acmicpc.net/problem/1940) | `Silver IV` | ~~[1940](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1940.cpp)~~
   - [등수 매기기](https://www.acmicpc.net/problem/2012) | `Silver III` | ~~[2012](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2012.cpp)~~
   - [수열의 점수](https://www.acmicpc.net/problem/2036) | `Silver I` | ~~[2036](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2036.cpp)~~
+  - [통계학](https://www.acmicpc.net/problem/2108) | `Silver IV` | ~~[2108](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2108.cpp)~~
