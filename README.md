@@ -51,3 +51,5 @@
   - [수열의 점수](https://www.acmicpc.net/problem/2036) | `Silver I` | ~~[2036](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2036.cpp)~~
   - [통계학](https://www.acmicpc.net/problem/2108) | `Silver IV` | ~~[2108](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2108.cpp)~~
   - [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) |  `Silver V` | ~~[2209](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2204.cpp)~~
+  - [거리의 합](https://www.acmicpc.net/problem/2399) | `Bronze II` | ~~[2399](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2399.cpp)~~
+  - [아시아 정보올림피아드](https://www.acmicpc.net/problem/2535) | `Silver V` | ~~[2535](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2535.cpp)~~
