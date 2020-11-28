@@ -57,5 +57,5 @@
   - [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) |  `Silver V` | ~~[2209](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2204.cpp)~~
   - [거리의 합](https://www.acmicpc.net/problem/2399) | `Bronze II` | ~~[2399](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2399.cpp)~~
   - [아시아 정보올림피아드](https://www.acmicpc.net/problem/2535) | `Silver V` | ~~[2535](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2535.cpp)~~
-  - [수 정렬하기](https://www.acmicpc.net/problem/2705) | `Bronze I` | ~~[2705](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2705.cpp)
-  - [수 정렬하기2](https://www.acmicpc.net/problem/2751) | `Silver V` | ~~[2751](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2751.cpp)
+  - [수 정렬하기](https://www.acmicpc.net/problem/2705) | `Bronze I` | ~~[2705](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2705.cpp)~~
+  - [수 정렬하기2](https://www.acmicpc.net/problem/2751) | `Silver V` | ~~[2751](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2751.cpp)~~
