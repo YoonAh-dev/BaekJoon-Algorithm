@@ -1,5 +1,5 @@
 # ➰고리고리단 알고리즘 스터디➰
-**❗️❗️1일 1알고리즘 하자❗️❗️**
+**❗️❗❗️1일 1알고리즘 하자❗️❗❗️**
 
 |주차          |Level     |문제번호 |제목     |분류 |제출 기한       |git  |velog      |
 |---------------|---------|-----|-------------|---|------------|------|--------|
@@ -59,3 +59,4 @@
   - [아시아 정보올림피아드](https://www.acmicpc.net/problem/2535) | `Silver V` | ~~[2535](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2535.cpp)~~
   - [수 정렬하기](https://www.acmicpc.net/problem/2750) | `Bronze I` | ~~[2750](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2750.cpp)~~
   - [수 정렬하기2](https://www.acmicpc.net/problem/2751) | `Silver V` | ~~[2751](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2751.cpp)~~
+  - [정렬]
