@@ -59,4 +59,5 @@
   - [아시아 정보올림피아드](https://www.acmicpc.net/problem/2535) | `Silver V` | ~~[2535](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2535.cpp)~~
   - [수 정렬하기](https://www.acmicpc.net/problem/2750) | `Bronze I` | ~~[2750](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2750.cpp)~~
   - [수 정렬하기2](https://www.acmicpc.net/problem/2751) | `Silver V` | ~~[2751](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2751.cpp)~~
-  - [정렬]
+  
+- **그냥 열심히 푸는 문제**
