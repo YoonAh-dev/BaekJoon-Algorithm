@@ -2,7 +2,7 @@
 **❗️❗❗️1일 1알고리즘 하자❗️❗❗️**
 
 |주차          |Level     |문제번호 |제목     |분류 |제출 기한       |git  |velog      |
-|---------------|---------|-----|-------------|---|------------|------|--------|
+|-----------------|---------|-----|-------------|---|------------|------|--------|
 |10월 2주차, 1주차|Bronze I  |4344 |[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|   |Oct 9, 2020 |~~[4344](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_4344.cpp)~~|
 |10월 2주차, 1주차|Silver IV |9012 |[괄호](https://www.acmicpc.net/problem/9012)    |스택 |Oct 9, 2020 |~~[9012](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_9012.cpp)~~| [🗒🗒](https://velog.io/@yoonah-dev/9012%EB%B2%88-%EA%B4%84%ED%98%B8C)
 |10월 3주차, 2주차|Silver III|1966 |[프린터 큐](https://www.acmicpc.net/problem/1966)  |큐  |Oct 16, 2020|~~[1966](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1966.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/1966%EB%B2%88-%ED%94%84%EB%A6%B0%ED%84%B0-%ED%81%90c)
@@ -62,6 +62,7 @@
   - [수 정렬하기](https://www.acmicpc.net/problem/2750) | `Bronze I` | ~~[2750](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2750.cpp)~~
   - [수 정렬하기2](https://www.acmicpc.net/problem/2751) | `Silver V` | ~~[2751](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2751.cpp)~~
   - [수 정렬하기3](https://www.acmicpc.net/problem/10989) | `Silver IV` | ~~[10989](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_10989.cpp)~~
+  - [숫자 카드](https://www.acmicpc.net/problem/10815) | `Silver IV` | ~~[10815](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_10815.cpp)~~
   
 ---
 
