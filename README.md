@@ -41,6 +41,8 @@
 <br>
 <br>
 
+---
+
 - **[나는 정렬을 못한다🙅🏻‍♀️, 기본기를 기르자🧑🏻‍💻](https://www.acmicpc.net/workbook/view/2071)**
   - [세수정렬](https://www.acmicpc.net/problem/2752)  | `Bronze IIII` |  ~~[2752](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2752.cpp)~~
   - [과목선택](https://www.acmicpc.net/problem/11948) | `Bronze IV` | ~~[11948](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_11948.cpp)~~
@@ -60,4 +62,7 @@
   - [수 정렬하기](https://www.acmicpc.net/problem/2750) | `Bronze I` | ~~[2750](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2750.cpp)~~
   - [수 정렬하기2](https://www.acmicpc.net/problem/2751) | `Silver V` | ~~[2751](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2751.cpp)~~
   
+---
+
+
 - **그냥 열심히 푸는 문제**
