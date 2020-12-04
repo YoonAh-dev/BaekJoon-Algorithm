@@ -33,9 +33,9 @@
 |11월 4주차, 3주차|Silver II |11279|[최대 힙](https://www.acmicpc.net/problem/11279) |heap |Nov 27, 2020|~~[11279](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_11279.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/11279%EB%B2%88-%EC%B5%9C%EB%8C%80-%ED%9E%99c)
 |11월 4주차, 3주차|Gold IV |1715|[카드 정렬하기](https://www.acmicpc.net/problem/1715) |heap |Nov 27, 2020|~~[1715](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1715.cpp)~~|[🗒🗒](https://velog.io/@yoonah-dev/1715%EB%B2%88-%EC%B9%B4%EB%93%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0c)
 |11월 4주차, 3주차|Gold II |1766|[문제집](https://www.acmicpc.net/problem/1766) |heap, graph |Nov 27, 2020|~~[1766](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1766.cpp)~~|
-|12월 1주차, 4주차|Silver II |1541|[잃어버린 괄호](https://www.acmicpc.net/problem/1541) |Greedy |Dec 5, 2020|
-|12월 1주차, 4주차|Gold IV |1339|[단어 수학](https://www.acmicpc.net/problem/1339) |Greedy |Dec 5, 2020|
-|12월 1주차, 4주차|Gold III |2437|[저울](https://www.acmicpc.net/problem/2437) |Greedy, Sort |Dec 5, 2020|
+|12월 1주차, 4주차|Silver II |1541|[잃어버린 괄호](https://www.acmicpc.net/problem/1541) |Greedy |Dec 5, 2020|~~[1541](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1541.cpp)~~|
+|12월 1주차, 4주차|Gold IV |1339|[단어 수학](https://www.acmicpc.net/problem/1339) |Greedy |Dec 5, 2020|~~[1339](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1339.cpp)~~|
+|12월 1주차, 4주차|Gold III |2437|[저울](https://www.acmicpc.net/problem/2437) |Greedy, Sort |Dec 5, 2020|~~[2437](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2437.cpp)~~|
 |12월 1주차, 4주차|Gold II |1700|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |Greedy |Dec 5, 2020|
 
 <br>
