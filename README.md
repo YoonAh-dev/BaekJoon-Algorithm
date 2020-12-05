@@ -70,3 +70,4 @@
 - **그냥 열심히 푸는 문제**
 
   - [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | `Silver V` | ~~[1018](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1018.cpp)~~
+  - [다리 놓기](https://www.acmicpc.net/problem/1010) | `Silver V` | ~~[1010](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1010.cpp)~~
