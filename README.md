@@ -77,3 +77,4 @@
   - [다리 놓기](https://www.acmicpc.net/problem/1010) | `Silver V` | ~~[1010](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1010.cpp)~~
   - [토마토](https://www.acmicpc.net/problem/7576) | `Silver I`  | ~~[7576](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_7576.cpp)~~
   - [약수](https://www.acmicpc.net/problem/1037) | `Silver V` | ~~[1037](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1037.cpp)~~
+  - [보물](https://www.acmicpc.net/problem/1026) | `Silver IV` | ~~[1026](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1026.cpp)~~
