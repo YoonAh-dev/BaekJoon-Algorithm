@@ -37,10 +37,10 @@
 |12월 1주차, 4주차|Gold IV |1339|[단어 수학](https://www.acmicpc.net/problem/1339) |Greedy |Dec 5, 2020|~~[1339](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1339.cpp)~~|
 |12월 1주차, 4주차|Gold III |2437|[저울](https://www.acmicpc.net/problem/2437) |Greedy, Sort |Dec 5, 2020|~~[2437](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2437.cpp)~~|
 |12월 1주차, 4주차|Gold II |1700|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |Greedy |Dec 5, 2020|
-|12월 2주차, 1주차|Bronze I |2839|[설탕 배달](https://www.acmicpc.net/problem/2839)|DP |Dec 11, 2020|
-|12월 2주차, 1주차|Silver III |1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|DP |Dec 11, 2020|
+|12월 2주차, 1주차|Bronze I |2839|[설탕 배달](https://www.acmicpc.net/problem/2839)|DP |Dec 11, 2020|~~[2839](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_2839.cpp)~~|
+|12월 2주차, 1주차|Silver III |1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|DP |Dec 11, 2020|~~[1463](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1463.cpp)~~|
 |12월 2주차, 1주차|Silver I|1149|[RGB거리](https://www.acmicpc.net/problem/1149)|DP |Dec 11, 2020|
-|12월 2주차, 1주차|Gold V |9251|[LCS](https://www.acmicpc.net/problem/9251)|DP |Dec 11, 2020|
+|12월 2주차, 1주차|Gold V |9251|[LCS](https://www.acmicpc.net/problem/9251)|DP |Dec 11, 2020|~~[9251](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_9251.cpp)~~|
 
 <br>
 <br>
