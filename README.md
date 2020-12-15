@@ -79,3 +79,4 @@
   - [약수](https://www.acmicpc.net/problem/1037) | `Silver V` | ~~[1037](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1037.cpp)~~
   - [보물](https://www.acmicpc.net/problem/1026) | `Silver IV` | ~~[1026](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1026.cpp)~~
   - [행렬](https://www.acmicpc.net/problem/1080) | `Silver II` | ~~[1080](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1080.cpp)~~
+  - [상근이의 여행](https://www.acmicpc.net/problem/9372) | `Silver III` | ~~[9372](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_9372.cpp)~~
