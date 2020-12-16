@@ -80,3 +80,4 @@
   - [보물](https://www.acmicpc.net/problem/1026) | `Silver IV` | ~~[1026](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1026.cpp)~~
   - [행렬](https://www.acmicpc.net/problem/1080) | `Silver II` | ~~[1080](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1080.cpp)~~
   - [상근이의 여행](https://www.acmicpc.net/problem/9372) | `Silver III` | ~~[9372](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_9372.cpp)~~
+  - [주사위](https://www.acmicpc.net/problem/1041) | `Silver I` | ~~[1041](https://github.com/YoonAh-dev/BaekJoon-Algorithm/blob/master/Algorithm/baekjoon_1041.cpp)~~
